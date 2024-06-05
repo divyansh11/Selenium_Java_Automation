@@ -30,6 +30,7 @@ public class LearnScreenshot {
 		
 		
 		// To directly write the directory, use System.getProperty("user.dir")
+		
 //		Files.copy(srcfile, new File("C:\\Users\\divya\\git\\repository2\\trial\\"+ getdatetime() +"sample.jpg"));
 //		getdatetime();
 		
