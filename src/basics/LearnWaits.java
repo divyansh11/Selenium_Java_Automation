@@ -15,7 +15,7 @@ public class LearnWaits {
 		// TODO Auto-generated method stub
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(6));
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(6));  //implicit wait conditions
 		
 		//opens a url
 		driver.get("https://selenium.qabible.in/dynamic-load.php");
